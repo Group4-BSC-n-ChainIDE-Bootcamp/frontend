@@ -1,0 +1,10 @@
+@media all and (min-width: 0px) {
+    .navbar-style{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        max-width: 350px;
+        margin: 20px auto;
+    }
+}
